@@ -1,0 +1,24 @@
+.hidden {
+    display: none;
+}
+
+.input {
+    border-top:none;
+    border-right: none;
+    border-left: none;
+    border-bottom-color: black;
+    background-color: white;
+    outline: none;
+}
+
+.inline_block {
+    display: inline-block;
+}
+
+.text {
+    padding:10px;
+}
+
+.ischeck {
+    text-decoration-line: line-through;
+}
